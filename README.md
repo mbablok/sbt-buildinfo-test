@@ -1,0 +1,2 @@
+sbt-buildinfo-test
+==================
